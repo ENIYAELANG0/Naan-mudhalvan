@@ -1,0 +1,97 @@
+header{
+    background-color: purple;
+    width: 90;
+    height: 90;
+}
+
+body{
+    background-color:purple;
+}
+.title-name{
+    color:sandybrown;
+    text-align: center;
+}
+.sub-title{
+    color:sandybrown;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    font-weight: 900;
+    text-align: center;
+}
+.aboutme{
+    color:beige;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    font-weight: 900;
+    text-align: left;
+
+}
+.workingexperience{
+    color:beige;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    font-weight: 900;
+    text-align: left;
+}
+.project{
+    color:beige;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    font-weight: 900;
+    text-align: left;
+}
+.education{
+    color:beige;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    font-weight: 900;
+    text-align: left;
+}
+.skills{
+    color:beige;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    font-weight: 900;
+    text-align: left;
+}
+.interest{
+    color:beige;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    font-weight: 900;
+    text-align: left;
+}
+table,th,tr,td{
+    border: 2px solid beige;
+}
+tr{
+    padding: 4px;
+    width: 10px;
+    height: 10px;
+}
+td{
+    padding: 4px;
+    width: 10px;
+    height: 10px;
+}
+.col{
+    color:aliceblue;
+    display:flex
+    flex-direction:row;
+    align-content: center;
+    justify-content:space-between;
+}
+.box{
+    border:2px solid beige;
+    margin:50px;
+    padding: 5px;
+}
+.box div{
+    border:1px solid beige;
+    width:30px;
+    text-align: center;
+}
+.box{
+display:flex;
+justify-content:space-between;
+}
